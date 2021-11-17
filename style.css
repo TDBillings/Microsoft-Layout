@@ -1,0 +1,29 @@
+.main-image {
+    text-align: center;
+}
+
+.main-icons {
+    text-align: center;
+} 
+
+/* .main-image {
+  text-align: center;
+} */
+
+.center-container {
+    text-align: center;
+  }
+  
+  /* #icons {
+    display: inline-block;
+  } */
+  
+  span {
+    display: inline-block;
+    border: 3px solid rgb(211, 42, 42);
+    font-size: 12px;
+  }
+
+  .mini-layout {
+      text-align: center;
+  }
